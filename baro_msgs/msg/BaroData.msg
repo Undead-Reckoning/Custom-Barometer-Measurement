@@ -1,2 +1,2 @@
 std_msgs/Header header
-float32 altitude
+float64 altitude
